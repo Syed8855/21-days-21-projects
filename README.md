@@ -114,7 +114,7 @@ Each folder contains:
 ## 📬 Contact
 
 **Created by:** [Syed Hasnain](https://github.com/Syed8855)
-📧 Email: [yourname@email.com](mailto:iamsyedhasnain04@gmail.com)
+📧 Email: (mailto:iamsyedhasnain04@gmail.com)
 💼 Portfolio: *add your portfolio link if you have one*
 
 ---
